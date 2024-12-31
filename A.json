@@ -1,1 +1,8 @@
-
+{
+  "name": "CHIL",
+  "ticker": "CHIL",
+  "description": "24/7",
+  "homepage": "https://www.chilestakepo.cl",
+  "nonce": "1735671609",
+  "extended": "https://raw.githubusercontent.com/09dd/AF/refs/heads/main/E.json"
+}
