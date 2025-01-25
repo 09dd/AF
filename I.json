@@ -1,1 +1,8 @@
-
+{
+  "name": "Chile Stake po",
+  "ticker": "CHIL2",
+  "description": "24/7",
+  "homepage": "https://www.chilestakepo.cl",
+  "nonce": "1737768727",
+  "extended": "https://raw.githubusercontent.com/09dd/AF/refs/heads/main/E.json"
+}
